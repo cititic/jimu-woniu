@@ -4,9 +4,9 @@
 - 及目蜗牛是一个 放大屏幕文字的 windows 桌面软件
 
 ---
-![app-logo](https://github.com/cititic/zhu18/blob/master/assets/logo.gif?raw=true)
+![app-logo](https://github.com/cititic/jimu-woniu/blob/master/assets/logo.gif?raw=true)
 ---
-![app-list](https://github.com/cititic/zhu18/blob/master/assets/jimu-woniu.gif?raw=true)
+![app-ui](https://github.com/cititic/jimu-woniu/blob/master/assets/jimu-woniu.gif?raw=true)
 ---
 及目蜗牛是一款具有屏幕放大功能的电脑软件，该软件能自动放大鼠标所在位置的内容，适合各类高频度使用电脑的人使用，如经常在办公室面对电脑工作的文职人员，对于近视和老花等视力不佳的人同样有效
 
